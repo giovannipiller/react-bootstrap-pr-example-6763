@@ -1,0 +1,14 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "react-bootstrap": "2.10.0"
+  },
+  "devDependencies": {
+    "@types/react": "18.2.43",
+    "typescript": "4.4.2"
+  }
+}
